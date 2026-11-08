@@ -1,0 +1,31 @@
+{
+  "keys": [
+    {
+      "key_id": "cliente01",
+      "hash": "6b6e827e53995fba61fb3eb51f891fa40617e0751faafe6e2cf342debd05e449",
+      "sociedades": [
+        3
+      ],
+      "rate_per_hour": 100,
+      "active": true
+    },
+    {
+      "key_id": "cliente03",
+      "hash": "$argon2id$v=19$m=65536,t=3,p=4$ASBlYiOxcvZ8u+o4T+Cskw$3AeW+yP0ZVkAU2oSmph9shU+THnecPLQyZdw++qFflw",
+      "sociedades": [
+        3
+      ],
+      "rate_per_hour": 100,
+      "active": true
+    },
+    {
+      "key_id": "desarrollo",
+      "hash": "$argon2id$v=19$m=65536,t=3,p=4$IE/Y5LfOCBm5ux9o2jBosQ$Xqv9WxNsApfR7PJdioivZ8uxzTIg/0vQ/xmUcf1Kpro",
+      "sociedades": [
+        3
+      ],
+      "rate_per_hour": 100,
+      "active": true
+    }
+  ]
+}
