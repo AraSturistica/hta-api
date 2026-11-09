@@ -10,6 +10,7 @@ class Settings(BaseSettings):
     db_password: str = ""
     db_name: str = "clinicas"
     db_ssl_ca: str = ""
+    db_allow_no_ca: bool = False  # Opt-in explícito para omitir CA en producción
     db_pool_max: int = 10
     db_connect_timeout: int = 10
     db_query_timeout: float = 60.0
